@@ -18,69 +18,10 @@ Je suis **Zohair Sabyoud**, étudiant en **1M - Cycle de Développement des Syst
 
 ---
 
-## 🛠️ Compétences
-
-### Langages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-</p>
-
-### Machine Learning & IA
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-### Cybersécurité
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=flat-square&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng"/>
-</p>
-
-### IoT & Bases de données
-<p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### Outils
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 🚀 Projets emblématiques
-
-### 1. Surveillance IA en temps réel
-- **Description** : Système de détection d’objets (foule, violence, incendie) via caméras RTSP, utilisant YOLOv8 et OpenCV, avec alertes Telegram.
-- **Technologies** : Python, YOLOv8, OpenCV, Raspberry Pi, MongoDB.
-- **Impact** : Amélioration de la sécurité publique grâce à une analyse vidéo intelligente.
-- **Lien** : [GitHub](#) *(bientôt disponible)*.
-
-### 2. Application web sécurisée
-- **Description** : Plateforme web avec authentification robuste et protection contre les attaques XSS/CSRF, testée avec Kali Linux.
-- **Technologies** : Flask, MySQL, Kali Linux.
-- **Impact** : Solution fiable pour des applications sensibles.
-- **Lien** : [GitHub](#) *(bientôt disponible)*.
-
-### 3. Domotique IoT intelligente
-- **Description** : Système de contrôle d’appareils domestiques via Arduino, avec interface mobile et stockage cloud.
-- **Technologies** : Arduino, Python, MongoDB.
-- **Impact** : Simplification de la gestion domestique.
-- **Lien** : [GitHub](#) *(bientôt disponible)*.
-
----
-
 ## 🌟 Mes ambitions
-- Maîtriser le **deep learning** avec TensorFlow et PyTorch pour des applications avancées.
-- Contribuer à des projets **open-source** en IA et cybersécurité.
-- Développer des solutions IoT pour la **sécurité intelligente** et la **domotique durable**.
+ Maîtriser le **deep learning** avec TensorFlow et PyTorch pour des applications avancées.
+ Contribuer à des projets **open-source** en IA et cybersécurité.
+ Développer des solutions IoT pour la **sécurité intelligente** et la **domotique durable**.
 
 ---
 
