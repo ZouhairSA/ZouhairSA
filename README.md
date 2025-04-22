@@ -86,11 +86,11 @@ Je suis **Zohair Sabyoud**, étudiant en **1M - Cycle de Développement des Syst
 
 ## 📊 Activité GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabyoudzohair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zohair's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyoudzohair&theme=tokyonight&hide_border=true" alt="Zohair's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZouhairSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zohair's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZouhairSA&theme=tokyonight&hide_border=true" alt="Zohair's GitHub Streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyoudzohair&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouhairSA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="30%"/>
 </p>
 
 ---
