@@ -11,9 +11,9 @@
 ## 🌍 About Me
 I’m **Zohair Sabyoud**, a **1st-year CDSI (Cycle de Développement des Systèmes d’Information)** student at INSA & HESTIM, Morocco (2024-2025). Driven by a passion for innovation, I focus on the intersection of **machine learning**, **cybersecurity**, and the **Internet of Things (IoT)**. My goal is to create impactful tech solutions that address real-world challenges and shape a connected future.
 
-🎓 **Education**: 1M - CDSI, INSA & HESTIM, Morocco.
-🔍 **Current Focus**: Real-time AI surveillance, secure applications, and smart IoT systems.
-⚡ **Fun Fact**: I ethically tested my school’s Wi-Fi security using Kali Linux during an approved cybersecurity workshop!
+- 🎓 **Education**: 1M - CDSI, INSA & HESTIM, Morocco.
+- 🔍 **Current Focus**: Real-time AI surveillance, secure applications, and smart IoT systems.
+- ⚡ **Fun Fact**: I ethically tested my school’s Wi-Fi security using Kali Linux during an approved cybersecurity workshop!
 
 ---
 
@@ -34,10 +34,3 @@ I’m **Zohair Sabyoud**, a **1st-year CDSI (Cycle de Développement des Systèm
 - Develop IoT solutions for **smart security** and **sustainable home automation**.
 
 ---
-
-<div align="center">
-  <h3>Join Me on This Tech Journey!</h3>
-  <p>Interested in collaborating on AI, cybersecurity, or IoT projects? Explore my work or reach out to connect!</p>
-  <a href="https://www.linkedin.com/in/sabyoud-zohair-a5635920a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sabyoudzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
