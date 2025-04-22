@@ -1,12 +1,9 @@
 <div align="center">
   <h1>👋 Salut, je suis Sabyoud Zohair !</h1>
   <p>Étudiant en CDSI | Passionné par le Machine Learning, la Cybersécurité et l’IoT | Créateur de solutions innovantes</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00C4B4&center=true&vCenter=true&width=440&lines=Bienvenue+sur+mon+profil+GitHub+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00C4B4&cent
 </div>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabyoudzohair&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="160" style="margin: 5px; margin-bottom: 20px;" />
-</div>
 
 ---
 
@@ -16,25 +13,16 @@ Je suis **Sabyoud Zohair**, étudiant en **1M - CDSI** (Cycle de Développement 
 - 🎓 **Formation** : 1M - CDSI, INSA & HESTIM.  
 - 💻 **Compétences** : Python, Scikit-learn, Flask, MySQL, OpenCV, YOLO, Kali Linux, Git, GitHub, IoT (Raspberry Pi, Arduino).  
 - 🔭 **Projets en cours** : Surveillance automatisée avec IA, applications sécurisées, et systèmes IoT.  
-- 📫 **Contactez-moi** : [LinkedIn](https://www.linkedin.com/in/sabyoud-zohair-a5635920a/) | [Email](mailto:VotreEmail@gmail.com)  
+- 📫 **Contactez-moi** : [LinkedIn](https://www.linkedin.com/in/sabyoud-zohair-a5635920a/) | [Email](mailto:sabyoudzo@gmail.com)  
 - ⚡ **Fun fact** : J’ai perturbé (éthiquement) le Wi-Fi de mon école avec Kali Linux pour un atelier de cybersécurité approuvé par mon professeur !  
 
 ---
 
 ## 🛠️ Mes projets phares
 
-### 🌟 1. Arbres de Décision sur le Dataset Iris
-- **Description** : Projet académique pour explorer les performances des arbres de décision sur le dataset Iris, en utilisant Scikit-learn.  
-- **Fonctionnalités** :  
-  - Entraînement d’un modèle d’arbre de décision avec différentes profondeurs (`max_depth=2`, `3`, `None`).  
-  - Visualisation des frontières de décision pour analyser le sous-apprentissage et le sur-apprentissage.  
-- **Technologies** : Python, Scikit-learn, Matplotlib, Pandas, NumPy.  
-- **Lien** : [Dépôt GitHub](https://github.com/sabyoudzohair/iris-decision-trees)  
-- **Aperçu** :  
-  <img src="images/iris_decision_boundary_depth2.png" alt="max_depth=2" width="300"/>  
-  <img src="images/iris_decision_boundary_depthNone.png" alt="max_depth=None" width="300"/>  
 
-### 🔒 2. Atelier de Cybersécurité : Perturbation Wi-Fi avec Kali Linux
+
+### 🔒 1. Atelier de Cybersécurité : Perturbation Wi-Fi avec Kali Linux
 - **Description** : Atelier académique pour simuler une perturbation éthique du réseau Wi-Fi "HESTIM" de mon école, avec autorisation.  
 - **Fonctionnalités** :  
   - Utilisation de `aircrack-ng` et `aireplay-ng` pour scanner et perturber le réseau.  
@@ -45,7 +33,7 @@ Je suis **Sabyoud Zohair**, étudiant en **1M - CDSI** (Cycle de Développement 
   <img src="images/wifi_scan.png" alt="Scan Wi-Fi avec airodump-ng" width="400"/>  
   *Capture des réseaux Wi-Fi avec airodump-ng, ciblant le réseau HESTIM.*
 
-### 📹 3. Surveillance Automatisée avec IA
+### 📹 2. Surveillance Automatisée avec IA
 - **Description** : Projet de surveillance utilisant des modèles YOLO pour détecter des événements comme des incendies ou des foules à partir de caméras RTSP.  
 - **Fonctionnalités** :  
   - Intégration de modèles YOLO (`fire.pt`, `crowd.pt`) pour la détection en temps réel.  
@@ -66,21 +54,6 @@ Je suis **Sabyoud Zohair**, étudiant en **1M - CDSI** (Cycle de Développement 
 - **Aperçu** :  
   <img src="images/iot_setup.png" alt="Configuration IoT" width="400"/>  
   *Schéma de connexion entre Raspberry Pi, Arduino, et Buzzer.*
-
----
-
-## 📊 Statistiques et Badges
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabyoudzohair&theme=chalk&margin-w=15&margin-h=15" alt="GitHub Trophies" height="120" style="margin: auto; margin-bottom: 20px;" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyoudzohair&layout=compact&theme=midnight-purple" alt="Top Languages" height="160" style="margin: auto; margin-bottom: 20px;" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyoudzohair&theme=midnight-purple" alt="GitHub Streak" height="160" style="margin: auto; margin-bottom: 20px;" />
-</div>
 
 ---
 
@@ -118,7 +91,7 @@ Je suis **Sabyoud Zohair**, étudiant en **1M - CDSI** (Cycle de Développement 
   <a href="https://www.linkedin.com/in/sabyoud-zohair-a5635920a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:VotreEmail@gmail.com">
+  <a href="mailto:sabyoudzo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
