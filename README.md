@@ -22,38 +22,34 @@
 
 ## 🧑‍💻 About Me
 
-I am **Zohair Sabyoud**, a Computer Engineering and Artificial Intelligence student passionate about building intelligent, secure, and scalable digital solutions.
+I am **Zohair Sabyoud**, a Computer Engineering and Artificial Intelligence student passionate about building intelligent, secure, and scalable solutions.
 
-I focus on the intersection of:
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🔐 Cybersecurity & SOC Monitoring  
-- ☁️ Cloud Computing & AWS  
-- 🌐 Full Stack Web Development  
-- 📡 IoT and Smart Systems  
-
-My objective is to create real-world technology solutions that combine **AI, security, automation, and modern software engineering**.
+- 🤖 AI & Machine Learning  
+- 🔐 Cybersecurity & SOC  
+- ☁️ Cloud (AWS)  
+- 🌐 Full Stack Development  
+- 📡 IoT Systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Development
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,java,cs" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,express,bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,bootstrap,tailwind,vite" />
 </p>
 
-### AI, Data & Cybersecurity
+### AI & Cybersecurity
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,linux,kali" />
 </p>
 
-### Cloud, DevOps & Databases
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,postgres,mongodb" />
 </p>
@@ -62,13 +58,13 @@ My objective is to create real-world technology solutions that combine **AI, sec
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🛡️ SOC on AWS | Security monitoring lab with attack detection and visualization | AWS, Wazuh, Suricata, ELK |
-| 🔥 Fire Detection AI | AI system for detecting fire using computer vision | Python, YOLO, OpenCV |
-| 🏭 Daily Management System | Industrial DMS for action, incident, and KPI management | .NET, React, SQL Server, SignalR |
-| 🌐 Portfolio Website | Personal portfolio deployed online | HTML, CSS, JavaScript, Vercel |
-| 🛒 E-commerce Website | Web application for online product management | HTML, CSS, PHP, MySQL |
+| Project | Description | Tech |
+|--------|------------|------|
+| 🛡️ SOC on AWS | Security monitoring & attack detection | AWS, Wazuh, ELK |
+| 🔥 Fire Detection AI | Computer vision fire detection | Python, YOLO |
+| 🏭 DMS System | Industrial management system | .NET, React |
+| 🌐 Portfolio | Personal website | HTML, JS |
+| 🛒 E-commerce | Online shop | PHP, MySQL |
 
 ---
 
@@ -76,12 +72,12 @@ My objective is to create real-world technology solutions that combine **AI, sec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZohairSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZohairSA&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZouhairSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZouhairSA&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohairSA&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouhairSA&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
@@ -91,16 +87,16 @@ My objective is to create real-world technology solutions that combine **AI, sec
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZohairSA&theme=tokyonight" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZouhairSA&theme=tokyonight" width="90%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZohairSA&theme=tokyonight" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZohairSA&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZouhairSA&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZouhairSA&theme=tokyonight" width="45%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZohairSA&theme=tokyonight&utcOffset=1" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZouhairSA&theme=tokyonight&utcOffset=1" width="45%" />
 
 </div>
 
@@ -108,21 +104,20 @@ My objective is to create real-world technology solutions that combine **AI, sec
 
 ## 🎯 Current Goals
 
-- Build advanced AI and cybersecurity projects.
-- Improve my skills in cloud security and DevOps.
-- Develop full-stack applications with clean architecture.
-- Contribute to open-source projects.
-- Create professional projects ready for internship and job opportunities.
+- Build advanced AI & cybersecurity projects  
+- Improve cloud & DevOps skills  
+- Develop scalable full-stack apps  
+- Contribute to open-source  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <div align="center">
 
-📧 **Email:** sabyoudzo@gmail.com  
-🔗 **LinkedIn:** [Zohair Sabyoud](https://www.linkedin.com/in/sabyoud-zohair-a5635920a/)  
-🌐 **Portfolio:** [portfolio-self-eta-85.vercel.app](https://portfolio-self-eta-85.vercel.app/)
+📧 sabyoudzo@gmail.com  
+🔗 https://www.linkedin.com/in/sabyoud-zohair-a5635920a/  
+🌐 https://portfolio-self-eta-85.vercel.app/  
 
 </div>
 
@@ -130,6 +125,6 @@ My objective is to create real-world technology solutions that combine **AI, sec
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
 
 </div>
